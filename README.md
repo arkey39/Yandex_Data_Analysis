@@ -3,4 +3,4 @@
 *Описание проектов:*
 | Название проекта              | Суть проекта           | Используемые библиотеки                     |
 | :--------------------- |:----------------------------| :--------------------- |
-| [Сборный проект-2](https://github.com/arkey39/Yandex_Data_Analysis/blob/master/AAB-test.ipynb) | :--------------------- |:----------------------------|
+| [Сборный проект-2. AAB-тестирование](https://github.com/arkey39/Yandex_Data_Analysis/blob/master/AAB-test.ipynb) | :AAB-тестирование |:Pandas, Plotly, Seaborn|
